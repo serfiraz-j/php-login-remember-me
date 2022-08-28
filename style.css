@@ -1,0 +1,41 @@
+.pc{
+	min-height: 100vh;
+}
+
+.cn {
+
+	max-height: 200px; 
+	max-width: 460px;
+	margin-top: 15%;
+
+}
+
+.chb.w {
+	background-color: green; 
+	height: 80px; 
+	border-width: 5px;
+
+}
+.chb.l {
+	background-color: #267dff; 
+	height: 80px; 
+	border-width: 5px;
+
+}
+
+.ch5{
+	color: #ffffff; 
+	font-family: 'georgia',serif; 
+	margin-top: 5%;
+
+}	
+.cb {
+
+	font-weight: bold; 
+	font-family: 'georgia',serif; 
+
+}
+.c {
+	color: crimson;
+
+}
